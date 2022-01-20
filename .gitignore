@@ -1,0 +1,9 @@
+node_modules
+.idea
+.history
+.vscode
+/dist
+yarn-error.log
+.DS_Store
+.lh
+.history
